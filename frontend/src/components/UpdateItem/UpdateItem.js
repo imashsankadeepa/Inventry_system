@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import axios from 'axios'
-import { useParams } from 'react-router'  
+import { useParams } from 'react-router' 
+import './UpdateItem.css' 
 
 
 function UpdateItem() {
